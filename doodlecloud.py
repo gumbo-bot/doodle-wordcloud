@@ -39,3 +39,5 @@ plt.show()
 
 # image save location
 # img_location = r""
+
+# plt.savefig(img_location, facecolor='k', bbox_inches='tight')
