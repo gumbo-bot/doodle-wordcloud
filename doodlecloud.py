@@ -8,7 +8,7 @@ from wordcloud import WordCloud
 
 
 # location - input your  location here
-location = r"C:\Users\graem\OneDrive\Documents\Coding\Python\Files\Doodle\guesses2.txt"
+location = r""
 
 guesses = open(location, 'r', encoding="utf8").read()
 
